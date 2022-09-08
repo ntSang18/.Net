@@ -1,0 +1,7 @@
+E:\K7\KienTrucHuongDichVu\ProductManager\bin\Debug\net6.0\publish\ProductManager.exe
+E:\K7\KienTrucHuongDichVu\ProductManager\bin\Debug\net6.0\publish\appsettings.Development.json
+E:\K7\KienTrucHuongDichVu\ProductManager\bin\Debug\net6.0\publish\appsettings.json
+E:\K7\KienTrucHuongDichVu\ProductManager\bin\Debug\net6.0\publish\ProductManager.dll
+E:\K7\KienTrucHuongDichVu\ProductManager\bin\Debug\net6.0\publish\ProductManager.deps.json
+E:\K7\KienTrucHuongDichVu\ProductManager\bin\Debug\net6.0\publish\ProductManager.runtimeconfig.json
+E:\K7\KienTrucHuongDichVu\ProductManager\bin\Debug\net6.0\publish\ProductManager.pdb
