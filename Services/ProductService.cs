@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using ProductManager.Models;
 
 namespace ProductManager.Services
@@ -16,7 +17,9 @@ namespace ProductManager.Services
 
         public List<Product> getProducts()
         {
-            return _context.Products.ToList();
+            return _context.Products
+            .Include(p => p.Category)
+            .ToList();
         }
 
         public List<Category> GetCategories()
